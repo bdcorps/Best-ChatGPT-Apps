@@ -56,6 +56,7 @@ Oh, and quick shoutout - this whole thing was inspired by the awesome [awesome-g
 * [Google Calendar](https://chatgpt.com/apps/google-calendar/connector_947e0d954944416db111db556030eea6) - Look up events and availability
 * [Google Contacts](https://chatgpt.com/apps/google-contacts/connector_c0f748249d6a42aea4b00fd375570ded) - Reference saved contact details
 * [Google Drive](https://chatgpt.com/apps/google-drive/connector_5f3c8c41a1e54ad7a76272c89e2554fa) - Search and reference files from your Drive
+* [GSC Wizard](https://chatgpt.com/plugins/plugin_asdk_app_6a258ab1e0908191aa647c33299ad14c) - Analyze website performance with Google Search Console, GA4 and Bing data: queries, pages, rankings, and indexing across your properties
 * [Help Scout](https://chatgpt.com/apps/help-scout/connector_b969d12728c04baeb585eb9299be3b6d) - Connect to sync Help Scout mailboxes and conversations for use in ChatGPT.
 * [Hex](https://chatgpt.com/apps/hex/connector_690a9430a270819196671dcb4c95898e) - Ask questions, run analyses
 * [HighLevel](https://chatgpt.com/apps/highlevel/asdk_app_69402343886881919c40ceb13a6ea1c2) - Interact with your CRM business data
