@@ -68,6 +68,7 @@ Oh, and quick shoutout - this whole thing was inspired by the awesome [awesome-g
 * [Linear](https://chatgpt.com/apps/linear/connector_686fad9b54914a35b75be6d06a0f6f31) - Find and reference issues and projects
 * [Lovable](https://chatgpt.com/apps/lovable/asdk_app_693a0a79ffe48191901173077edcf914) - Build apps and websites
 * [LSEG](https://chatgpt.com/apps/lseg/connector_692f7fdc4f488191bf1f48439303c695) - LSEG financial data access
+* [Magic Hour AI](https://chatgpt.com/plugins/plugin_asdk_app_6abd6b5b6494819188475d7f1ff8204c) - Create and edit images and videos and generate audio in ChatGPT.
 * [Monday.com](https://chatgpt.com/apps/monday-com/connector_690aabb71bf481918b8d5b614ed3fd4c) - Manage work in monday.com
 * [Morningstar](https://chatgpt.com/apps/morningstar/asdk_app_69248819fa4c81918047c4b42b1f8823) - Live market insights
 * [Netlify](https://chatgpt.com/apps/netlify/asdk_app_691f1f8f72408191afdbbdf8242bdf86) - Build and deploy on Netlify
